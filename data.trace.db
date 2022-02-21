@@ -1,0 +1,60 @@
+2022-02-20 19:20:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "drop table if exists [*]user CASCADE "; expected "identifier"; SQL statement:
+drop table if exists user CASCADE  [42001-210]
+2022-02-20 19:20:27 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id)) [42001-210]
+2022-02-20 19:23:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "drop table if exists [*]user CASCADE "; expected "identifier"; SQL statement:
+drop table if exists user CASCADE  [42001-210]
+2022-02-20 19:23:58 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id)) [42001-210]
+2022-02-20 19:26:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "drop table if exists [*]user CASCADE "; expected "identifier"; SQL statement:
+drop table if exists user CASCADE  [42001-210]
+2022-02-20 19:26:15 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id)) [42001-210]
+2022-02-20 19:30:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "drop table if exists [*]user CASCADE "; expected "identifier"; SQL statement:
+drop table if exists user CASCADE  [42001-210]
+2022-02-20 19:30:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id)) [42001-210]
+2022-02-20 19:43:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "drop table if exists [*]user CASCADE "; expected "identifier"; SQL statement:
+drop table if exists user CASCADE  [42001-210]
+2022-02-20 19:43:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id)) [42001-210]
+2022-02-20 19:43:32 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table [*]user add constraint UK_sb8bbouer5wak8vyiiy4pf2bx unique (username)"; expected "identifier"; SQL statement:
+alter table user add constraint UK_sb8bbouer5wak8vyiiy4pf2bx unique (username) [42001-210]
+2022-02-20 20:04:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "drop table if exists [*]user CASCADE "; expected "identifier"; SQL statement:
+drop table if exists user CASCADE  [42001-210]
+2022-02-20 20:04:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id)) [42001-210]
+2022-02-20 20:04:23 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table [*]user add constraint UK_sb8bbouer5wak8vyiiy4pf2bx unique (username)"; expected "identifier"; SQL statement:
+alter table user add constraint UK_sb8bbouer5wak8vyiiy4pf2bx unique (username) [42001-210]
+2022-02-20 20:05:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "drop table if exists [*]user CASCADE "; expected "identifier"; SQL statement:
+drop table if exists user CASCADE  [42001-210]
+2022-02-20 20:05:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id)) [42001-210]
+2022-02-20 20:05:38 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table [*]user add constraint UK_sb8bbouer5wak8vyiiy4pf2bx unique (username)"; expected "identifier"; SQL statement:
+alter table user add constraint UK_sb8bbouer5wak8vyiiy4pf2bx unique (username) [42001-210]
+2022-02-20 20:06:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "drop table if exists [*]user CASCADE "; expected "identifier"; SQL statement:
+drop table if exists user CASCADE  [42001-210]
+2022-02-20 20:06:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "create table [*]user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id))"; expected "identifier"; SQL statement:
+create table user (id bigint not null, city varchar(255), dairy_allergies boolean, egg_allergies boolean, peanut_allergies boolean, state varchar(255), username varchar(255), zipcode varchar(255), primary key (id)) [42001-210]
+2022-02-20 20:06:34 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "alter table [*]user add constraint UK_sb8bbouer5wak8vyiiy4pf2bx unique (username)"; expected "identifier"; SQL statement:
+alter table user add constraint UK_sb8bbouer5wak8vyiiy4pf2bx unique (username) [42001-210]
